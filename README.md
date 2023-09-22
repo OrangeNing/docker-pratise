@@ -1,1 +1,4 @@
 # docker-pratise
+docker-file里放的是直接放在linux环境里就能用docker compose生成docker环境的文件。
+app是一次性用docker部署两个模块
+nginx-demo是用nginx作为网关部署两个模块
